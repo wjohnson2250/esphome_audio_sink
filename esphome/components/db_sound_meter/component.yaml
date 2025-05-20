@@ -1,0 +1,4 @@
+domain: db_sound_meter
+name: "Sound Meter ADF Pipeline Sink"
+dependencies: [adf_pipeline]
+espidf_versions: [">=4.4"]
